@@ -1,0 +1,28 @@
+{
+  "name": "almond-common-web-js-lib",
+  "version": "0.1.0",
+  "description": "This library is a set of common utility classes and functions for speeding up web development.  It currently depends heavily on JQuery for it's methods.",
+  "main": "master.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chirimantecman/almond-common-web-js-lib.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "web",
+    "jquery"
+  ],
+  "author": "Cristian Orellana M.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/chirimantecman/almond-common-web-js-lib/issues"
+  },
+  "homepage": "https://github.com/chirimantecman/almond-common-web-js-lib#readme",
+  "devDependencies": {
+    "eslint": "^4.12.1"
+  }
+}
